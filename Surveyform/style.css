@@ -1,0 +1,77 @@
+.cantainer {
+  padding: 1px solid rgb(9, 9, 9);
+
+  background-color: rgb(250, 252, 252);
+  margin-left: 4px;
+}
+.main {
+  background-color: rgb(246, 246, 247);
+  margin-top: -50%;
+}
+.main-body {
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #ccc;
+  margin-left: 30%;
+  margin-right: 30%;
+  height: 150%;
+  width: 51.5%;
+}
+.one {
+  background-color: #f2eded;
+  padding: 10px solid #efecec;
+  border-radius: 5px;
+  width: 20%;
+}
+.two {
+  width: 640px;
+  height: 70px;
+}
+.flex-row {
+  width: 30px;
+}
+.row {
+  width: 40px;
+}
+
+.flex-cantainer {
+  width: 650px;
+}
+.form-flex {
+  margin: 10px;
+
+  height: 30px;
+}
+.star {
+  color: red;
+}
+
+.radio {
+  margin-left: 27px;
+}
+.last {
+  margin-left: 157px;
+}
+.sub-main {
+  width: 100px;
+}
+.email {
+  width: 350px;
+}
+.flex-cantainer1 {
+  width: 650px;
+}
+.buy {
+  height: 10px;
+  margin-left: 20px;
+}
+.flex-row1 {
+  width: 0px;
+  height: 20px;
+}
+.submit {
+  padding: 10px 10px;
+}
+.fa-star {
+  color: rgb(218, 64, 64);
+}
